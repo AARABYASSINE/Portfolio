@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Portfolio Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+https://silver-monstera-7ef2db.netlify.app/
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
