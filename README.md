@@ -1,12 +1,12 @@
-# Portfolio
+
 # 🛡️ Yassine Aarab - Cybersecurity Portfolio
 
 <div align="center">
 
-https://silver-monstera-7ef2db.netlify.app/
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://silver-monstera-7ef2db.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AARABYASSINE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-aarab)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarabyassine30@gmail.com)
 
