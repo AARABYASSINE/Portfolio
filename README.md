@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://silver-monstera-7ef2db.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AARABYASSINE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-aarab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-aarab-225a23315/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarabyassine30@gmail.com)
 
 *Cybersecurity Engineering Student | AI Enthusiast | Problem Solver*
@@ -51,9 +51,6 @@ Welcome to my digital portfolio! This modern, responsive website showcases my jo
 ![AOS](https://img.shields.io/badge/AOS-FF6B6B?style=for-the-badge&logo=aos&logoColor=white)
 ![EmailJS](https://img.shields.io/badge/EmailJS-013243?style=for-the-badge&logo=emailjs&logoColor=white)
 
-### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -224,11 +221,6 @@ While this is a personal portfolio, I welcome suggestions and improvements!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
